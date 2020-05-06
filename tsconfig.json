@@ -1,0 +1,8 @@
+{
+  "extends": "@marvinroger/fusee/tsconfig",
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "./lib"
+  },
+  "include": ["src/**/*.ts"]
+}
